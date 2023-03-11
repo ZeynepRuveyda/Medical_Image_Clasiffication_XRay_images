@@ -1,0 +1,2 @@
+# Clasiffication_medical_XRay_images
+Covid XRay Classification Images
